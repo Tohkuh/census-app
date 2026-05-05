@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Census Desk icon">
+    <rect width="512" height="512" rx="96" fill="#0f766e"/>
+    <rect x="102" y="112" width="308" height="288" rx="34" fill="#ffffff"/>
+    <path fill="#c7791a" d="M154 181h204v32H154zM154 245h139v32H154zM154 309h181v32H154z"/>
+    <circle cx="362" cy="330" r="54" fill="#2563eb"/>
+    <path fill="#ffffff" d="M335 322h54v16h-54zM354 295h16v70h-16z"/>
+</svg>
